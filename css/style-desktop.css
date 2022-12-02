@@ -13,6 +13,7 @@ div.header {
   height: 500px;
   background-image: url("/images/banner.jpg");
   background-size: cover;
+  background-position: center;
   padding-top: 50px;
 }
 h1 {
