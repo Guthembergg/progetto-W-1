@@ -1,1 +1,121 @@
-/* Your styles here */
+div.logo {
+  background-color: black;
+  width: 450px;
+  height: 90px;
+}
+img.lg {
+  width: 150px;
+  padding-left: 150px;
+  margin-top: 20px;
+}
+div.header {
+  width: 450px;
+  height: 250px;
+  background-image: url("/images/banner.jpg");
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  color: #25a2c3;
+  font-size: 30px;
+  padding-top: 30px;
+}
+p.header {
+  text-align: center;
+}
+button.header {
+  margin-left: 190px;
+  margin-top: 30px;
+  background-color: #f04c2f;
+  border: none;
+  color: aliceblue;
+  padding: 7px;
+}
+main {
+  width: 450px;
+  margin-top: 50px;
+}
+body {
+  width: 450px;
+}
+h2 {
+  text-align: center;
+  color: #25a2c3;
+  font-size: 20px;
+}
+p {
+  text-align: center;
+  color: #393d41;
+  font-family: "OpenSans";
+}
+img.notebook {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin-left: 100px;
+}
+div.garantisce {
+  background-color: #e22d0e;
+  height: 210px;
+  margin-top: 60px;
+}
+h3 {
+  color: aliceblue;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 40px;
+}
+h4 {
+  text-align: center;
+  padding-top: 40px;
+  color: aliceblue;
+}
+p.ceo {
+  padding-top: 10px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+div.pc {
+  width: 300px;
+  margin-left: 80px;
+  margin-top: 50px;
+  padding-bottom: 20px;
+  border: 0.1px solid rgba(150, 147, 147, 0.285);
+}
+img.pc {
+  width: 300px;
+}
+
+div.impara {
+  width: 300px;
+  margin-left: 80px;
+  margin-top: 50px;
+  border: 0.1px solid rgba(150, 147, 147, 0.285);
+  padding-bottom: 20px;
+}
+img.impara {
+  width: 300px;
+}
+div.lavora {
+  width: 300px;
+  margin-left: 80px;
+  margin-top: 50px;
+  border: 0.1px solid #dee1e3;
+  padding-bottom: 20px;
+  margin-bottom: 50px;
+}
+img.lavora {
+  width: 300px;
+}
+footer {
+  background-color: #25a2c3;
+  height: 190px;
+}
+div.footer {
+  text-align: center;
+  color: aliceblue;
+}
+p.footer {
+  color: aliceblue;
+  font-size: ;
+}
